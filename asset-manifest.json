@@ -1,17 +1,11 @@
 {
-  "main.css": "/group-freind/static/css/main.308259e3.chunk.css",
-  "main.js": "/group-freind/static/js/main.a90a0de8.chunk.js",
-  "main.js.map": "/group-freind/static/js/main.a90a0de8.chunk.js.map",
+  "main.js": "/group-freind/static/js/main.200ed107.chunk.js",
+  "main.js.map": "/group-freind/static/js/main.200ed107.chunk.js.map",
   "runtime~main.js": "/group-freind/static/js/runtime~main.6bcdf87f.js",
   "runtime~main.js.map": "/group-freind/static/js/runtime~main.6bcdf87f.js.map",
-  "static/css/2.029f6df2.chunk.css": "/group-freind/static/css/2.029f6df2.chunk.css",
-  "static/js/2.77cf792b.chunk.js": "/group-freind/static/js/2.77cf792b.chunk.js",
-  "static/js/2.77cf792b.chunk.js.map": "/group-freind/static/js/2.77cf792b.chunk.js.map",
+  "static/js/2.650efd90.chunk.js": "/group-freind/static/js/2.650efd90.chunk.js",
+  "static/js/2.650efd90.chunk.js.map": "/group-freind/static/js/2.650efd90.chunk.js.map",
   "index.html": "/group-freind/index.html",
-  "precache-manifest.cd576fa378909c9a435024c4424bc7df.js": "/group-freind/precache-manifest.cd576fa378909c9a435024c4424bc7df.js",
-  "service-worker.js": "/group-freind/service-worker.js",
-  "static/css/2.029f6df2.chunk.css.map": "/group-freind/static/css/2.029f6df2.chunk.css.map",
-  "static/css/main.308259e3.chunk.css.map": "/group-freind/static/css/main.308259e3.chunk.css.map",
-  "static/media/persik.png": "/group-freind/static/media/persik.4e1ec840.png",
-  "static/media/png.png": "/group-freind/static/media/png.7ea30b5b.png"
+  "precache-manifest.f5b1d56ff9348e552eb62865c4800eb4.js": "/group-freind/precache-manifest.f5b1d56ff9348e552eb62865c4800eb4.js",
+  "service-worker.js": "/group-freind/service-worker.js"
 }
