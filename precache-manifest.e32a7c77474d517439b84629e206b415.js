@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/group-freind/static/js/runtime~main.6bcdf87f.js"
   },
   {
-    "revision": "8bfa1f5929f9725c9a75",
-    "url": "/group-freind/static/js/main.073c36bc.chunk.js"
+    "revision": "87cca83baab054adfb78",
+    "url": "/group-freind/static/js/main.4d09a864.chunk.js"
   },
   {
     "revision": "4ceeabb23ca4e985a8ee",
     "url": "/group-freind/static/js/2.c74b6e9a.chunk.js"
   },
   {
-    "revision": "8bfa1f5929f9725c9a75",
+    "revision": "87cca83baab054adfb78",
     "url": "/group-freind/static/css/main.0619d5b9.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/group-freind/static/css/2.23087338.chunk.css"
   },
   {
-    "revision": "f84385bfbfc768a17a7a0698752dd981",
+    "revision": "f55bcc21d9b0b7cae06697cba20388e6",
     "url": "/group-freind/index.html"
   }
 ];
